@@ -4,7 +4,7 @@
       <span class="logo-icon">🌸</span>
       <div>
         <h1>Flora</h1>
-        <p>цветочный магазин</p>
+        <p>Илья Мазяров ЗКТ-44-25</p>
       </div>
     </div>
 

@@ -1,0 +1,11 @@
+# Frontend
+client/node_modules/
+client/dist/
+
+# Backend
+server/vendor/
+
+# System
+.DS_Store
+*.log
+.env

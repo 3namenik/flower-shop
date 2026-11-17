@@ -1,0 +1,4 @@
+docker compose up #запуск
+
+docker compose down -v      # -v удаляет volume с БД
+docker compose up -d        № поднимает контейнеры зановор
